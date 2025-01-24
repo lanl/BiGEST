@@ -1,0 +1,13 @@
+
+name: bigest
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - biopython
+  - antismash 7.1.0
+  - blast 
+  - r-base
+  - r-ggplot2
+  - r-rcolorbrewer
+  - r-gggenes
