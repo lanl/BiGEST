@@ -1,11 +1,11 @@
-# BiGEST
+BiGEST
 
 
-## Release
+Release
 
 This code is released for open source by #O4844
 
-## LICENSE 
+LICENSE 
 
 © 2024. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos
